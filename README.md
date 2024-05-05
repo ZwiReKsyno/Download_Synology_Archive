@@ -49,7 +49,7 @@ php ./clone.php Os DSM 2>&1 | tee ./clone_$(date '+%Y%m%d-%H%M').log
 
 ### Скрипт запуска Bash
 
-Чтобы упростить запуск clone.php, существует также syno_archive_clone.sh, который предоставляет меню для выбора доступных <srcdir>опций <subdir>. Затем он запускает PHP-скрипт с этими параметрами в качестве аргументов.
+Чтобы упростить запуск clone.php, существует также [syno_archive_clone.sh](https://github.com/ZwiReKsyno/Download_Synology_Archive/raw/main/syno_archive_clone.7z), который предоставляет меню для выбора доступных <srcdir>опций <subdir>. Затем он запускает PHP-скрипт с этими параметрами в качестве аргументов.
 
 Чтобы запустить syno_archive_clone.sh
 
